@@ -5,5 +5,4 @@ Invoked right before the most recently rendered output is committed to e.g. the 
 getSnapshotBeforeUpdate(prevProps, prevState) {
 	$0
 }
-
 ```

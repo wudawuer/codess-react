@@ -11,5 +11,4 @@ class ${1:${TM_FILENAME_BASE}} extends Component {
 		);
 	}
 }
-
 ```

@@ -5,5 +5,4 @@ Invoked when a component is receiving new props. This method is not called for t
 componentWillReceiveProps(nextProps) {
 	$0
 }
-
 ```

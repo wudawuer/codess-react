@@ -5,5 +5,4 @@ Error boundaries catch errors during rendering, in lifecycle methods, and in con
 componentDidCatch(error, info) {
 	$0
 }
-
 ```

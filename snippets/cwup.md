@@ -5,5 +5,4 @@ Invoked immediately before rendering when new props or state are being received.
 componentWillUpdate(nextProps, nextState) {
 	$0
 }
-
 ```

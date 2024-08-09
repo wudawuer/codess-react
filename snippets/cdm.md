@@ -5,5 +5,4 @@ Invoked once, only on the client (not on the server), immediately after the init
 componentDidMount() {
 	$0
 }
-
 ```

@@ -6,5 +6,4 @@ constructor(props) {
 	super(props);
 	$0
 }
-
 ```
